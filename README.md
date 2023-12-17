@@ -24,9 +24,9 @@
   `tugas 9- ajeng niwahintan pratiwi.py`
 * Tugas 2 :
     * a. ganjil-genap
-`tugas 10-1-D.py`
+`tugas 10-1-d.py`
     * b. jam
-`tugas 10-2-D.py`
+`tugas 10-2-d.py`
 * Tugas Percabangan
     * 1. Batasan Nilai
    `percabangan 1.py`
