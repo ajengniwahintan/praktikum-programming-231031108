@@ -7,7 +7,7 @@
 * Praktikum 1 : Pengenalan Variabel
   `praktikum-d1.py`
 * Praktikum 2 : Operator
-  `praktikum-d2.py`
+  `tugas praktikum 2.py`
 * Praktikum 3 : String
  `praktikum-d3.py`
 * Praktikum 4 : List and Tuples
